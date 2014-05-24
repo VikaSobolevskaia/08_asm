@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11_2_asm", "11_2_asm\11_2_asm.vcxproj", "{421C708C-A5E0-4CD8-A8C0-B4162728BE57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{421C708C-A5E0-4CD8-A8C0-B4162728BE57}.Debug|Win32.ActiveCfg = Debug|Win32
+		{421C708C-A5E0-4CD8-A8C0-B4162728BE57}.Debug|Win32.Build.0 = Debug|Win32
+		{421C708C-A5E0-4CD8-A8C0-B4162728BE57}.Release|Win32.ActiveCfg = Release|Win32
+		{421C708C-A5E0-4CD8-A8C0-B4162728BE57}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
